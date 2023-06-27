@@ -18,7 +18,5 @@
  长颈: long neck
  身体长: long body
  全选: nsfw,logo,text,badhandv4,EasyNegative,ng_deepnegative_v1_75t,rev2-badprompt,verybadimagenegative_v1.3,negative_hand-neg,mutated hands and fingers,poorly drawn face,extra limb,missing limb,disconnected limbs,malformed hands,ugly
-
-
-
-
+ 负面提示1: easynegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), extra fingers, fewer fingers, strange fingers, bad hand, bad anatomy, fused fingers, missing leg, mutated hand, malformed limbs, missing feet,(Fake eyelashes:1.5),(masculine:1.5), strange lips,strange eyes,(wide mouth:1.5),
+ 负面提示2: (worst quality:2), (low quality:2), (normal quality:2), ((monochrome)), ((grayscale)),paintings, sketches, skin spots, acnes, skin blemishes, bad anatomy, facing away, looking away, tilted head, multiple girls, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, blurry, bad feet, cropped, poorly drawn hands, poorly drawn face, mutation, deformed, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, extra fingers, fewer digits, extra limbs, extra arms, extra legs, malformed limbs, fused fingers, too many fingers, long neck, cross-eyed, mutated hands, polar lowres, bad body, bad proportions, gross, extra breasts, ng_deepnegative_v1_75t, bad-hands-5

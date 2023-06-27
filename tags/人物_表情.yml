@@ -1,4 +1,24 @@
 表情:
+  高兴: Happy
+  伤心: Sad
+  生气: Angry
+  惊讶: Surprised
+  困惑: Confused
+  兴奋: Excited
+  焦虑: Nervous
+  尴尬: Embarrassed
+  自豪: Proud
+  害怕: Scared
+  失望: Disappointed
+  充满希望: Hopeful
+  放松: Relaxed
+  恋爱中: In love
+  满足: Content
+  嫉妒: Jealous
+  好奇: Curious
+  无聊: Bored
+  羡慕: Envious
+  担心: Worried
   笑: smile
   微笑: light smile
   惨笑: sad smile
@@ -14,7 +34,7 @@
   哭: crying
   泪: tears
   恐怖: scared
-  不好的: serious
+  不好: serious
   恼怒: annoyed
   黑暗人格: dark persona
   多亚脸: doyagao
@@ -35,4 +55,3 @@
   羞耻: embarrassed
   顽皮: naughty
   困乏: sleepy
-
