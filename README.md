@@ -10,6 +10,7 @@ https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN
   ```
  
   - 粘贴进 URL 栏，点击 `Install`，如图
+  - 
 ![download](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/assets/45053630/478403ef-0fba-4fb0-8fa2-98fd584c955f)
 
   - 安装完成，跳转到 [如何使用](#如何使用)
