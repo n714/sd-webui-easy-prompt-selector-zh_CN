@@ -10,6 +10,7 @@ https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN
   ```
  
   - 粘贴进 URL 栏，点击 `Install`，如图
+![download](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/assets/45053630/478403ef-0fba-4fb0-8fa2-98fd584c955f)
 
   - 安装完成，跳转到 [如何使用](#如何使用)
   
@@ -33,7 +34,7 @@ https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN
 - [人物_装饰](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E4%BA%BA%E7%89%A9_%E8%A3%85%E9%A5%B0.yml)
 - [人物_角色](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E4%BA%BA%E7%89%A9_%E8%A7%92%E8%89%B2.yml)
 - [人物_鞋袜帽](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E4%BA%BA%E7%89%A9_%E9%9E%8B%E8%A2%9C%E5%B8%BD.yml)
-- [十八禁](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E5%8D%81%E5%85%AB%E7%A6%81.yml)
+- [18禁](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E5%8D%81%E5%85%AB%E7%A6%81.yml)
 - [开始提示](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E5%BC%80%E5%A7%8B%E6%8F%90%E7%A4%BA.yml)
 - [汉服](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E6%B1%89%E6%9C%8D.yml)
 - [环境](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E7%8E%AF%E5%A2%83.yml)
