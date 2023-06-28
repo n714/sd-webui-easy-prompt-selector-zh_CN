@@ -9,7 +9,6 @@
    https://github.com/n714/sdweb-easy-prompt-selector-cn
   ```
   - 粘贴进 URL 栏，点击 `Install`，如图
-  ![installURL](https://github.com/n714/sdweb-easy-prompt-selector-cn/assets/45053630/0eca3e42-f40a-45d9-bbf5-e1b9bc19c28d)
   - 安装完成，跳转到 [如何使用](#如何使用)
 
   ### 2. 又或者，直接下载然后放在对应路径
