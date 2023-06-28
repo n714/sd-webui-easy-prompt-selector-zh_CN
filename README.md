@@ -8,13 +8,13 @@
   ```
    https://github.com/n714/sdweb-easy-prompt-selector-cn
   ```
-- ![download](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/assets/45053630/5b0a42b6-b7f3-45d6-b7ed-26b8facbaa58)
+ ![download](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/assets/45053630/5b0a42b6-b7f3-45d6-b7ed-26b8facbaa58)
   - 粘贴进 URL 栏，点击 `Install`，如图
   - 
   - 安装完成，跳转到 [如何使用](#如何使用)
 
   ### 2. 又或者，直接下载然后放在对应路径
-  - [下载本 git 仓库](https://github.com/n714/sdweb-easy-prompt-selector-cn/archive/refs/heads/main.zip)为 zip 档案
+  [下载本 git 仓库](https://github.com/n714/sdweb-easy-prompt-selector-cn/archive/refs/heads/main.zip)为 zip 档案
   ![install-dl](https://github.com/n714/sdweb-easy-prompt-selector-cn/assets/45053630/a60e07a7-4515-4c73-9778-91b0c3c3058e)
 
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
