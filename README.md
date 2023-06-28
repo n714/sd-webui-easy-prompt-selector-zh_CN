@@ -23,7 +23,6 @@ git clone https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh
   ```
 
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
-  ![extension](https://github.com/n714/sdweb-easy-prompt-selector-cn/assets/45053630/e973f209-4dd7-46b9-a277-a3b916310f13)
   - 安装完成.
 
   ### Tag Libaray:
