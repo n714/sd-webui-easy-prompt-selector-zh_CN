@@ -16,7 +16,7 @@ https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN
   - 安装完成，  
 
   ### 2. 又或者，直接下载然后放在对应路径
-  [下载本 git 仓库](https://github.com/n714/sdweb-easy-prompt-selector-cn/archive/refs/heads/main.zip)为 zip 档案
+  [下载本 git 仓库](https://github.com/n714/sdweb-easy-prompt-selector-cn/archive/refs/heads/main.zip) 为 zip 档案
 ```
 git clone https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN
   ```
@@ -24,8 +24,10 @@ git clone https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
   - 安装完成.
 
-  ### Tag Libaray:
+  ### 安装 Prompt Libaray:
 - [Prompt libaray ](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
+- 直接下载然后,解压，并把文件夹放置在 webui 根目录下的 `extensions/stable-diffusion-webui-easy-prompt-selector-zh_CN/tags/` 文件夹中，
+- 安装完成.
 
 ------------------------------------------------------------------------------------------
 Original creator descriptions
