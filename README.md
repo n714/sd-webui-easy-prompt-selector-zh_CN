@@ -25,7 +25,8 @@ git clone https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh
   - 安装完成.
 
   ### Tag Libaray:
-[Prompt libaray ](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
+- [Prompt libaray ](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
+
 ------------------------------------------------------------------------------------------
 Original creator descriptions
 https://blue-pen5805.fanbox.cc/posts/5306601
