@@ -13,8 +13,7 @@ https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN
  
 ![download](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/assets/45053630/478403ef-0fba-4fb0-8fa2-98fd584c955f)
 
-  - 安装完成，跳转到 [如何使用](#如何使用)
-  
+  - 安装完成，  
 
   ### 2. 又或者，直接下载然后放在对应路径
   [下载本 git 仓库](https://github.com/n714/sdweb-easy-prompt-selector-cn/archive/refs/heads/main.zip)为 zip 档案
