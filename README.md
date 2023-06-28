@@ -24,5 +24,5 @@
 
     
 ------------------------------------------------------------------------------------------
-
-[(https://blue-pen5805.fanbox.cc/posts/5306601)Original creator descriptions]
+Original creator descriptions
+https://blue-pen5805.fanbox.cc/posts/5306601
