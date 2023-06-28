@@ -22,8 +22,8 @@
   ![extension](https://github.com/n714/sdweb-easy-prompt-selector-cn/assets/45053630/e973f209-4dd7-46b9-a277-a3b916310f13)
   - 安装完成.
 
-  ### tag Libaray:
-- 人物
+  ### Tag Libaray:
+- [人物](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/blob/main/tags/%E4%BA%BA%E7%89%A9.yml)
 - 人物_五官
 - 人物_头发.
 - 人物_姿势
