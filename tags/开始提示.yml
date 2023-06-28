@@ -1,3 +1,6 @@
 启动提示:
- Photo 正面提示1: (masterpiece, best quality:1.2), highres, (photorealistic:1.4), (depth of field:1.1)
+ Photo 正面提示: (masterpiece, best quality:1.2), highres, (photorealistic:1.4), (depth of field:1.1)
+ Lineart 正面提示: a line drawing, line art, line work 
+ CG 正面提示1: ((white background)) (8k,raw photo, masterpiece, best quality),(photon mapping, radiosity, physically-base rendering, automatic white balance),CG unity, Official art, amazing, finely detail, an extremely delicate and beautiful, extremally detailed,3d rendering, c4d, blender, octanerender,
  CG 正面提示2: masterpiece, best quality, highres, drawing , selfiemirror
+ Toys 正面提示: popular toys, blind box toys, disney style
