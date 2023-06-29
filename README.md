@@ -21,7 +21,7 @@ https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN
 git clone https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN
   ```
 
-  - 解压，并把文件夹放置在 webui 根目录下的 `extensions\stable-diffusion-webui-easy-prompt-selector-zh_CN\tags` 文件夹中，放好之后应该会如下图
+  - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
   - 安装完成.
 
   ### 安装 [Prompt Libaray](https://github.com/n714/stable-diffusion-prompt-library-zh_CN):
