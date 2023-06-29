@@ -29,7 +29,7 @@ git clone https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
 [简体中文提示词库](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
  繁體中文提示詞庫
 
-# 提示词库内容
+### 提示词库内容
 - 0 - 开始提示 
 - 0 - 负面 
 - 1 - 人物 
