@@ -3,11 +3,15 @@
 ## 如何安装 stable diffusion webui easy prompt selector zh_CN 简体中文
 
   ### 1.通过网址安装
+  
+  ![1](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/0e062781-7ec8-4996-8f02-6aab74b733ac)
+
   - 点击 `Extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```
 https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
   ```
+![2](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/bbd0f896-3d9b-4b93-b76f-6fd1422c758c)
  
   - 粘贴进 URL 栏，点击 `Install`，如图
  
