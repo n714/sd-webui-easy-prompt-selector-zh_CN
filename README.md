@@ -14,21 +14,18 @@ https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
 ![2](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/bbd0f896-3d9b-4b93-b76f-6fd1422c758c)
  
   - 粘贴进 URL 栏，点击 `Install`，如图
- 
-![download](https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh_CN/assets/45053630/478403ef-0fba-4fb0-8fa2-98fd584c955f)
-
   - 安装完成，  
 
   ### 2. 又或者，直接下载然后放在对应路径
-  [下载本 git 仓库](https://github.com/n714/sdweb-easy-prompt-selector-cn/archive/refs/heads/main.zip) 为 zip 档案
+  [下载本 git 仓库](https://github.com/n714/sd-web-easy-prompt-selector-cn/archive/refs/heads/main.zip) 为 zip 档案
 ```
 git clone https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
   ```
 
-  - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
+  - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后, 重新webui.
   - 安装完成.
 
-  ### 安装 [Prompt Libaray](https://github.com/n714/stable-diffusion-prompt-library-zh_CN):
+  ### 安装  [简体中文 Prompt Libaray](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
 - 0 - 开始提示 
 - 0 - 负面 
 - 1 - 人物 
