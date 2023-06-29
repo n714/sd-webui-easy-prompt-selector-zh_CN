@@ -30,26 +30,9 @@ git clone https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
 - [繁體中文提示詞庫](https://github.com/n714/stable-diffusion-prompt-library-zh_TW)
 
 ### 提示词库内容
-- 0 - 开始提示 
-- 0 - 负面 
+- 0 - 起手提示词 
+- 0 - 负面提示词 
 - 1 - 人物 
-- 1 - 人物_五官 
-- 1 - 人物_头发 
-- 1 - 人物_姿势 
-- 1 - 人物_尾翅膀角 
-- 1 - 人物_服装 - 汉服 
-- 1 - 人物_服装 
-- 1 - 人物_表情 
-- 1 - 人物_装饰 
-- 1 - 人物_角色 
-- 1 - 人物_鞋袜帽 
-- 1 - 动物 
-- 2 - 食物 
-- 3 - 场景 
-- 3 - 艺术风格 
-- 3 - 视角和灯光  
-- 5 - 魔法系 
-- 9 - 18禁
   
 下载然后放在对应路径
 - [Prompt libaray ](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
@@ -57,5 +40,6 @@ git clone https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
 - 安装完成.
 
 ------------------------------------------------------------------------------------------
-Original creator descriptions
-https://blue-pen5805.fanbox.cc/posts/5306601
+# Original creator
+[sdweb-easy-prompt-selector
+](https://github.com/blue-pen5805/sdweb-easy-prompt-selector)https://github.com/blue-pen5805/sdweb-easy-prompt-selector
