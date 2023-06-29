@@ -24,26 +24,27 @@ git clone https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
   - 安装完成.
 
-  ### 安装 Prompt Libaray:
-- 人物
-- 人物_五官
-- 人物_头发
-- 人物_姿势
-- 人物_尾翅膀角
-- 人物_服装
-- 人物_表情
-- 人物_装饰
-- 人物_角色
-- 人物_鞋袜帽
-- 十八禁
-- 开始提示
-- 汉服
-- 环境
-- 画质和视角
-- 艺术风格
-- 负面
-- 食物
-- 魔法系
+  ### 安装 [Prompt Libaray](https://github.com/n714/stable-diffusion-prompt-library-zh_CN):
+- 0 - 开始提示 
+- 0 - 负面 
+- 1 - 人物 
+- 1 - 人物_五官 
+- 1 - 人物_头发 
+- 1 - 人物_姿势 
+- 1 - 人物_尾翅膀角 
+- 1 - 人物_服装 - 汉服 
+- 1 - 人物_服装 
+- 1 - 人物_表情 
+- 1 - 人物_装饰 
+- 1 - 人物_角色 
+- 1 - 人物_鞋袜帽 
+- 1 - 动物 
+- 2 - 食物 
+- 3 - 场景 
+- 3 - 艺术风格 
+- 3 - 视角和灯光  
+- 5 - 魔法系 
+- 9 - 18禁
 
 - 下载然后放在对应路径
 - [Prompt libaray ](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
