@@ -26,8 +26,8 @@ git clone https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
   - 安装完成.
 
   ### 安装提示词库
-[简体中文提示词库](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
- 繁體中文提示詞庫
+- [简体中文提示词库](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
+- [繁體中文提示詞庫](https://github.com/n714/stable-diffusion-prompt-library-zh_TW)
 
 ### 提示词库内容
 - 0 - 开始提示 
