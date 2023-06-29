@@ -6,7 +6,7 @@
   - 点击 `Extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```
-https://github.com/n714/sd-webui-easy-prompt-selector-easy-prompt-selector-zh_CN
+https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
   ```
  
   - 粘贴进 URL 栏，点击 `Install`，如图
@@ -24,7 +24,7 @@ git clone https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
   - 安装完成.
 
-  ### 安装 [Prompt Libaray](https://github.com/n714/sd-webui-prompt-library-zh_CN):
+  ### 安装 [Prompt Libaray](https://github.com/n714/stable-diffusion-prompt-library-zh_CN):
 - 0 - 开始提示 
 - 0 - 负面 
 - 1 - 人物 
@@ -47,7 +47,7 @@ git clone https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
 - 9 - 18禁
   
 下载然后放在对应路径
-- [Prompt libaray ](https://github.com/n714/sd-webui-prompt-library-zh_CN)
+- [Prompt libaray ](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
 - 直接下载然后,解压，并把文件夹放置在 webui 根目录下的 `extensions/sd-webui-easy-prompt-selector-zh_CN/tags/` 文件夹中，
 - 安装完成.
 
