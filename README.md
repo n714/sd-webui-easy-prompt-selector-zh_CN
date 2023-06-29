@@ -45,8 +45,7 @@ git clone https://github.com/n714/stable-diffusion-webui-easy-prompt-selector-zh
 - 3 - 视角和灯光  
 - 5 - 魔法系 
 - 9 - 18禁
-- 
-
+  
 下载然后放在对应路径
 - [Prompt libaray ](https://github.com/n714/stable-diffusion-prompt-library-zh_CN)
 - 直接下载然后,解压，并把文件夹放置在 webui 根目录下的 `extensions/stable-diffusion-webui-easy-prompt-selector-zh_CN/tags/` 文件夹中，
