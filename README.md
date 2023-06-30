@@ -40,5 +40,5 @@ git clone https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN
 - 安装完成.
 
 ------------------------------------------------------------------------------------------
-# Original creator
+## Original creator
 [sdweb-easy-prompt-selector](https://github.com/blue-pen5805/sdweb-easy-prompt-selector)
