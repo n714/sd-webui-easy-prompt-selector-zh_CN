@@ -21,7 +21,7 @@ def examples():
 def copy_examples():
     for file in examples():
         file_path = str(file).replace('tags_examples', 'tags')
-        shutil.copy2(file, file_path)
+        shutil.copytree(file, file_path)
 
 def tags():
     return TAGS_DIR.rglob("*.yml")
