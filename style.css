@@ -20,13 +20,3 @@ div.easy_prompt_selector_tag:hover img {
     z-index: 100;
     max-width: 400px;
 }
-
-/*
-div.easy_prompt_selector_tag:hover img.left {
-   left: 0;
-}
-
-div.easy_prompt_selector_tag:hover img.right {
-    right: 0;
-}
-*/
