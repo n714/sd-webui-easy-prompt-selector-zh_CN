@@ -1,5 +1,9 @@
 # sd-webui-easy-prompt-selector-zh_CN
 
+##增加新功能提示图
+当鼠标悬停于提示词上，下方将会显示显示有关图像。
+新增提示词库和新疆图像安装如下：
+
 ## 如何安装 stable diffusion webui easy prompt selector zh_CN 简体中文
 
   ### 1.通过网址安装
