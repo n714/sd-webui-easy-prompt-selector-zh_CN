@@ -3,7 +3,6 @@
 ## 增加新功能提示图
 - 当鼠标悬停于提示词上，下方将会显示显示有关图像。
 [tag&img.webm](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/9cf04366-a217-4672-b2ba-c9cbd7f9adb2)
-
 - 新增提示词库和新疆图像安装如下：
 
 ## 如何安装 stable diffusion webui easy prompt selector zh_CN 简体中文
