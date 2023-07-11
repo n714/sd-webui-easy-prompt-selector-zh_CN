@@ -33,6 +33,9 @@
   老太太: Old lady
   老人: Old man 
 ```
+## 使用方法
+# 选中需要的提示词，滑鼠`左键`是加入，`右键`是删除。
+
  
 ## 如何安装 stable diffusion webui easy prompt selector zh_CN 简体中文
 
