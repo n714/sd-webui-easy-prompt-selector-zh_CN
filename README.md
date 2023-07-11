@@ -1,6 +1,6 @@
 # sd-webui-easy-prompt-selector-zh_CN
 
-## 增加新功能提示图
+# 增加新功能提示图
 ![tagImg](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/490b6f3e-c940-4254-b8b4-214fb0ef52ea)
 - 当鼠标悬停于提示词上，下方将会显示显示有关图像。
 
@@ -34,10 +34,10 @@
   老人: Old man 
 ```
 ## 使用方法
-# 选中需要的提示词，滑鼠`左键`是加入，`右键`是删除。
+### 选中需要的提示词，滑鼠`左键`是加入，`右键`是删除。
 
  
-## 如何安装 stable diffusion webui easy prompt selector zh_CN 简体中文
+# 如何安装 stable diffusion webui easy prompt selector zh_CN 简体中文
 
   ### 1.通过网址安装
   
