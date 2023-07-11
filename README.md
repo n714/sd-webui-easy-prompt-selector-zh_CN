@@ -2,7 +2,9 @@
 
 ## 增加新功能提示图
 - 当鼠标悬停于提示词上，下方将会显示显示有关图像。
-- [![]([https://markdown-videos.vercel.app/youtube/dQw4w9WgXcQ](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/9cf04366-a217-4672-b2ba-c9cbd7f9adb2))]([https://youtu.be/dQw4w9WgXcQ](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/9cf04366-a217-4672-b2ba-c9cbd7f9adb2))
+![tagImg](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/490b6f3e-c940-4254-b8b4-214fb0ef52ea)
+
+[Video](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/67102b31-84b2-49fa-8dc7-e3cb0d86b552)
 
 - 新增提示词库和新疆图像安装如下：
 
@@ -10,7 +12,7 @@
 
   ### 1.通过网址安装
   
-  ![1](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/0e062781-7ec8-4996-8f02-6aab74b733ac)
+  ![1]()
 
   - 点击 `Extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
