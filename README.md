@@ -25,7 +25,7 @@
 └── 1 - 人物.yml
 ```
 
-### 如果图像党不是JPG格式，需要在yml档案内加上下面两句
+= 如果图像党不是JPG格式，需要在yml档案内加上下面两句, 切记每一行前面需要留有适当的空间。
 ```
 .settings:
  fileFormatForImages: png
