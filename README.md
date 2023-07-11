@@ -7,7 +7,33 @@
 [Video](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/67102b31-84b2-49fa-8dc7-e3cb0d86b552)
 
 - 新增提示词库和新疆图像安装如下：
+-举例说明：
+-人物提示词加上图表示，
+-在tag档案夹内新增档案夹新建 人物 / 角色(Characters),把图片放进档案夹里,图片名称须根描述词一致.
+-如果图像党不是JPG格式，需要加上下面两句，如果是JPG格式的话不需要加。
+-以这个例子为例,我上床了六个图片分别改名为:
+- 1个女孩.png
+-  1个男孩.png
+-  2个女性.png
+-  多个女孩.png
+-  老太太.png
+-  老人.png
+  
+```
+# 如果图像党不是JPG格式，需要加上下面两句
+.settings:
+ fileFormatForImages: png
 
+人物:
+ 角色(Characters):
+  1个女孩: 1girl
+  1个男孩: 1boy
+  2个女性: 2girls
+  多个女孩: multiple girls
+  老太太: Old lady
+  老人: Old man 
+```
+ 
 ## 如何安装 stable diffusion webui easy prompt selector zh_CN 简体中文
 
   ### 1.通过网址安装
