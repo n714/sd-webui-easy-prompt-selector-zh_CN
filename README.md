@@ -1,5 +1,7 @@
 # sd-webui-easy-prompt-selector-zh_CN
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/n714mc)
+
 # 增加新功能提示图
 ![tagImg](https://github.com/n714/sd-webui-easy-prompt-selector-zh_CN/assets/45053630/490b6f3e-c940-4254-b8b4-214fb0ef52ea)
 - 当鼠标悬停于提示词上，下方将会显示显示有关图像。
