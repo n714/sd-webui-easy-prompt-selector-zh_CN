@@ -94,7 +94,7 @@ class Script(scripts.Script):
             return None
 
         reload_button = gr.Button('🔄', variant='secondary', elem_id='easy_prompt_selector_reload_button')
-        reload_button.style(size='sm')
+     #   reload_button.style(size='sm')
 
         def reload():
             self.tags = load_tags()
